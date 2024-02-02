@@ -8,5 +8,5 @@ public class TypeCast {
         // convert into double type
         double data = num;
         System.out.println("The double value: " + data);
-    }git 
+    }
 }
